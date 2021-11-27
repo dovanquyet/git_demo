@@ -1,0 +1,11 @@
+# data file
+*.txt
+*.json
+*.jsonl
+*.csv
+*.tsv
+*.html
+
+# checkpoint
+*.pt
+*.bin
